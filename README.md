@@ -1,5 +1,6 @@
 # Microsoft-Practice-Assessments
 A list of all the Microsoft Practice Assessments available today.
+If you find this usefull, give this repository a star.
 
 1. [Exam AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/certifications/exams/ai-900/practice/assessment?assessment-type=practice&amp;assessmentId=26&amp;wt.mc_id=practiceassessmentslaunch_blog_blog_wwl_xcsa)
 
